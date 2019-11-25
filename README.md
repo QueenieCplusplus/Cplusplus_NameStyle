@@ -16,7 +16,7 @@
 [7] 避免使用雷同的名稱。
 
 [8] 宣告具名型別時，優先選用 {} 初值列語法。
-    https://github.com/QueenieCplusplus/Cplusplus_Initialize
+         https://github.com/QueenieCplusplus/Cplusplus_Initialize
 
 [9] 開頭為 0 的數字是八進位數字。
 
